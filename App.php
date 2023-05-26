@@ -1,7 +1,6 @@
 <?php
 
 require_once "vendor/autoload.php";
-require_once "RootObject.php";
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Psr7\Request;
